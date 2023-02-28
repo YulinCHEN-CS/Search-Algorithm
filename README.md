@@ -45,4 +45,3 @@ UCL has a very clear position about academic integrity – what it is, why it is
 
 # References.
 [1] Bloom, Burton H. (1970), "Space/Time Trade-offs in Hash Coding with Allowable Errors", Communications of the ACM, 13 (7): 422–426. [PDF]
-![image](https://user-images.githubusercontent.com/114477782/221978705-b231c431-c2bf-435c-aee2-168412f7e500.png)
